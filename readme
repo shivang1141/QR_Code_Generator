@@ -1,0 +1,18 @@
+FuturQR
+    FuturQR is a simple, modern, and user-friendly QR code generator that allows users to create QR codes with a heart-shaped overlay. This project is perfect for a college assignment or anyone looking to generate QR codes quickly and easily.
+
+FuturQR Screenshot
+
+Features
+    Generate QR codes from a user-provided URL
+    Heart-shaped overlay on generated QR codes
+    Save generated QR codes as PNG images
+    Responsive and modern design
+
+Usage
+To generate a QR code, follow these steps:
+
+    Enter a valid URL into the input field.
+    Click the "Create" button.
+    The generated QR code will appear with a heart-shaped overlay.
+    Click the "Save QR Code" button to save the QR code as a PNG image.
